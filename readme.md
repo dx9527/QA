@@ -1,4 +1,4 @@
-为了方便各位，已上传data和zhwiki
+为了方便各位，已上传data(在Github)和zhwiki(https://pan.baidu.com/s/1X_j2-4DzaN5Fl7ovkjOBYA)
 
 PS：请充分使用Fork再发邮件……
 
