@@ -1,3 +1,8 @@
+为了方便各位，已上传data和zhwiki
+PS：请充分使用Fork再发邮件……
+https://github.com/S-H-Y-GitHub/QA/network
+https://github.com/S-H-Y-GitHub/QA/tree/dffec997dee8501586853cf1d6834bb46c95fcdf
+
 # 基于LSTM的中文问答系统 #
 
 本项目通过建立双向长短期记忆网络模型，实现了在多个句子中找到给定问题的答案所在的句子这一功能。**在使用了互联网第三方资源的前提下**，用training.data中的数据训练得到的模型对develop.data进行验证，MRR可达0.75以上
