@@ -10,16 +10,7 @@ https://github.com/S-H-Y-GitHub/QA/tree/dffec997dee8501586853cf1d6834bb46c95fcdf
 
 为了方便各位，已上传data(在Github)和zhwiki(https://pan.baidu.com/s/1X_j2-4DzaN5Fl7ovkjOBYA)
 
-另外附上zhwiki的修改建议，修改前
-
-"598454 50
-
-</s> ......"
-
-修改后
-
-"</s> ......"
-
+另外附上zhwiki的修改建议，删除第一行的 598454 50，并且不要留下空行。
 
 # 基于LSTM的中文问答系统 #
 
