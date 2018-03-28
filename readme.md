@@ -1,20 +1,24 @@
-为了方便各位，已上传data(在Github)和zhwiki(https://pan.baidu.com/s/1X_j2-4DzaN5Fl7ovkjOBYA)
+问：如何找到data数据？（我本地很早就删除了）
 
-PS：请充分使用Fork再发邮件……
+答：请充分使用Fork功能。
 
 https://github.com/S-H-Y-GitHub/QA/network
 
 https://github.com/S-H-Y-GitHub/QA/tree/dffec997dee8501586853cf1d6834bb46c95fcdf
 
-修改前
+我本地已经删掉这个项目的所有东西包括数据，但是最近有很多朋友咨询data数据，故fork了一下这个项目并完善。
 
-598454 50
+为了方便各位，已上传data(在Github)和zhwiki(https://pan.baidu.com/s/1X_j2-4DzaN5Fl7ovkjOBYA)
 
-</s> ......
+另外附上zhwiki的修改建议，修改前
+
+"598454 50
+
+</s> ......"
 
 修改后
 
-</s> ......
+"</s> ......"
 
 
 # 基于LSTM的中文问答系统 #
