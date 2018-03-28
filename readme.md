@@ -8,7 +8,7 @@ https://github.com/S-H-Y-GitHub/QA/tree/dffec997dee8501586853cf1d6834bb46c95fcdf
 
 我本地已经删掉这个项目的所有东西包括数据，但是最近有很多朋友咨询data数据，故fork了一下这个项目并完善。
 
-为了方便各位，已上传data(在Github)和zhwiki(https://pan.baidu.com/s/1X_j2-4DzaN5Fl7ovkjOBYA)
+为了方便各位，已上传data和zhwiki(https://pan.baidu.com/s/1FzkR0Q9RrKzj4pa2uD1BYw)
 
 另外附上zhwiki的修改建议，删除第一行的 598454 50，并且不要留下空行。
 
