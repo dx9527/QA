@@ -1,6 +1,9 @@
 为了方便各位，已上传data和zhwiki
+
 PS：请充分使用Fork再发邮件……
+
 https://github.com/S-H-Y-GitHub/QA/network
+
 https://github.com/S-H-Y-GitHub/QA/tree/dffec997dee8501586853cf1d6834bb46c95fcdf
 
 # 基于LSTM的中文问答系统 #
